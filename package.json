@@ -1,0 +1,14 @@
+{
+  "name": "creaigslist-scrapper",
+  "version": "1.0.0",
+  "description": "scrapper",
+  "main": "main.js",
+  "keywords": [
+    "scrapper"
+  ],
+  "author": "YohAdams",
+  "license": "Beerware",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
